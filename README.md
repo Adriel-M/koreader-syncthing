@@ -25,6 +25,7 @@ The method of running Syncthing is originally based on [The Anarcat's blog post]
 - Kobo Clara Colour
 - Kobo Elipsa 2E
 - Kobo Libra 2
+- Kobo Libra H2O
 - (Please send pull requests to add your tested device here!)
 
 *Note*: If you own an Android e-reader, you should use [Syncthing Fork](https://github.com/Catfriend1/syncthing-android) instead. This plugin currently does not work on Android.
