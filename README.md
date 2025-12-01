@@ -22,6 +22,7 @@ The method of running Syncthing is originally based on [The Anarcat's blog post]
 - Kindle Voyage
 - Kindle KT2 (7th Generation, 2014)
 - Kobo Clara BW
+- Kobo Clara Colour
 - Kobo Elipsa 2E
 - Kobo Libra 2
 - (Please send pull requests to add your tested device here!)
